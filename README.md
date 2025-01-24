@@ -1,5 +1,5 @@
 # Quizzy
-Quizzy  is a interactive simple html based web application.
+Quizzy  is a interactive simple html based web application. link for the website : https://visionary-fox-fdb7ef.netlify.app/
 Quizzy is a web-based quiz platform designed to offer a simple and fun quiz experience. This project allows users to register, log in, and participate in quizzes across various categories. The main objective of this project is to build a straightforward yet engaging application using only HTML and CSS.
 #**Features**
 Login & Register: Users can create an account or log in to access their personalized experience.
